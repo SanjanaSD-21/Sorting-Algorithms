@@ -1,4 +1,4 @@
-# Sorting-Algorithms
+# Sorting-Algorithms in Python
 The repository has codes for following sorting algorithms: 
 Bubble Sort
 Selction Sort
